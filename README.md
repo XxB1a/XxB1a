@@ -1,7 +1,7 @@
 ### Heey there 👋
 
 - 🔭 I’m currently working on my discord bot
-- 🌱 I’m currently learning Python and BASIC
+- 🌱 I’m currently learning Python and QBASIC (QuickBasic)
 - 💬 Ask me anything!
 - 📫 How to reach me: XxBiancaXx#4356
 - 😄 Pronouns: She/Her
