@@ -1,4 +1,4 @@
-### Heey there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on my discord bot
 - 🌱 I’m currently learning Python, JS, and QBASIC (QuickBasic)
